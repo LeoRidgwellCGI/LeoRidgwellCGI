@@ -1,6 +1,7 @@
 # Leo Ridgwell — Software Engineer @ CGI
 
-Practical, results-driven software engineer specializing in building reliable, maintainable enterprise systems. Focus areas include cloud-native applications, APIs, automation, and observability.
+Practical, results-driven software engineer specializing in building reliable, maintainable enterprise systems.  
+Focus areas include cloud-native applications, APIs, automation, and observability.
 
 ## About
 - Role: Software Engineer at CGI
